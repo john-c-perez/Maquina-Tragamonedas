@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\Maquina Tragamonedas\bin\Debug\netcoreapp3.1\Maquina Tragamonedas.exe
+C:\Users\USER\source\repos\Maquina Tragamonedas\bin\Debug\netcoreapp3.1\Maquina Tragamonedas.deps.json
+C:\Users\USER\source\repos\Maquina Tragamonedas\bin\Debug\netcoreapp3.1\Maquina Tragamonedas.runtimeconfig.json
+C:\Users\USER\source\repos\Maquina Tragamonedas\bin\Debug\netcoreapp3.1\Maquina Tragamonedas.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Maquina Tragamonedas\bin\Debug\netcoreapp3.1\Maquina Tragamonedas.dll
+C:\Users\USER\source\repos\Maquina Tragamonedas\bin\Debug\netcoreapp3.1\Maquina Tragamonedas.pdb
+C:\Users\USER\source\repos\Maquina Tragamonedas\obj\Debug\netcoreapp3.1\Maquina Tragamonedas.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Maquina Tragamonedas\obj\Debug\netcoreapp3.1\Maquina Tragamonedas.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Maquina Tragamonedas\obj\Debug\netcoreapp3.1\Maquina Tragamonedas.AssemblyInfo.cs
+C:\Users\USER\source\repos\Maquina Tragamonedas\obj\Debug\netcoreapp3.1\Maquina Tragamonedas.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Maquina Tragamonedas\obj\Debug\netcoreapp3.1\Maquina Tragamonedas.dll
+C:\Users\USER\source\repos\Maquina Tragamonedas\obj\Debug\netcoreapp3.1\Maquina Tragamonedas.pdb
+C:\Users\USER\source\repos\Maquina Tragamonedas\obj\Debug\netcoreapp3.1\Maquina Tragamonedas.genruntimeconfig.cache
